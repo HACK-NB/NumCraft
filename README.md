@@ -13,4 +13,4 @@ Simply clone this repository and run the script:
 ```bash
 git clone https://github.com/HACK-NB/NumCraft.git
 cd NumCraft
-python3 numcraft.py
+python3 NumCraft.py
